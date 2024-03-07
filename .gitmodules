@@ -1,0 +1,3 @@
+[submodule "C-Core-Library"]
+	path = C-Core-Library
+	url = https://github.com/IsaacMcCracken/C-Core-Library.git
